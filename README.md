@@ -86,7 +86,6 @@ A simple YouTube-like video app using Python and Flask, ready for mobile preview
 ```bash
 pkg install python
 pip install flask requests
-python youtube_clone.py
 ---
 
 ## ✅ How to Upload to GitHub
@@ -96,7 +95,7 @@ git init
 git remote add origin https://github.com/yourusername/youtube-clone.git
 git add .
 git commit -m "Initial commit - YouTube clone Flask app"
-git push -u origin master
+git push -u origin master9 youtube_clone.py
 ---
 
 ## ✅ How to Upload to GitHub
